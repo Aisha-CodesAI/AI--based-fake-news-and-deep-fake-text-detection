@@ -1,0 +1,8 @@
+gradio
+lime
+scikit-learn
+joblib
+gtts
+pandas
+numpy
+matplotlib
