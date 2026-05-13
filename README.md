@@ -244,7 +244,7 @@ Interface includes:
 
 # 👩‍💻 Author
 
-**Aisha Erum (Eda)**  
+**Aisha Erum **  
 AI & ML Enthusiast | CSE-AIML Student | Future AI Startup Founder
 
 GitHub: `Aisha-CodesAI`
